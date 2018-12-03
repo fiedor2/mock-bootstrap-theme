@@ -1,0 +1,2 @@
+# mock-bootstrap-theme
+test
